@@ -1,5 +1,5 @@
 {
-  "name": "@philiprehberger/api-error-kit",
+  "name": "@philiprehberger/ts-api-error-kit",
   "version": "0.1.0",
   "description": "Standardized typed HTTP error classes for APIs",
   "type": "module",
@@ -42,11 +42,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/philiprehberger/api-error-kit.git"
+    "url": "git+https://github.com/philiprehberger/ts-api-error-kit.git"
   },
-  "homepage": "https://github.com/philiprehberger/api-error-kit#readme",
+  "homepage": "https://github.com/philiprehberger/ts-api-error-kit#readme",
   "bugs": {
-    "url": "https://github.com/philiprehberger/api-error-kit/issues"
+    "url": "https://github.com/philiprehberger/ts-api-error-kit/issues"
   },
   "author": "Philip Rehberger",
   "engines": {
