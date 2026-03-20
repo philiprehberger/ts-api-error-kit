@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/ts-api-error-kit",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "description": "Standardized typed HTTP error classes for APIs",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -25,7 +25,8 @@
     "build": "tsup",
     "dev": "tsup --watch",
     "typecheck": "tsc --noEmit",
-    "prepublishOnly": "npm run build"
+    "prepublishOnly": "npm run build",
+    "test": "node --test"
   },
   "devDependencies": {
     "tsup": "^8.0.0",
