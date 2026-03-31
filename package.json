@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/api-error-kit",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Standardized typed HTTP error classes for APIs",
   "type": "module",
   "main": "./dist/index.cjs",
