@@ -1,8 +1,8 @@
 # @philiprehberger/api-error-kit
 
-[![CI](https://github.com/philiprehberger/api-error-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/api-error-kit/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/ts-api-error-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-api-error-kit/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/api-error-kit.svg)](https://www.npmjs.com/package/@philiprehberger/api-error-kit)
-[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/api-error-kit)](https://github.com/philiprehberger/api-error-kit/commits/main)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/ts-api-error-kit)](https://github.com/philiprehberger/ts-api-error-kit/commits/main)
 
 Standardized typed HTTP error classes for APIs
 
@@ -84,11 +84,11 @@ npm test
 
 If you find this project useful:
 
-⭐ [Star the repo](https://github.com/philiprehberger/api-error-kit)
+⭐ [Star the repo](https://github.com/philiprehberger/ts-api-error-kit)
 
-🐛 [Report issues](https://github.com/philiprehberger/api-error-kit/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+🐛 [Report issues](https://github.com/philiprehberger/ts-api-error-kit/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
 
-💡 [Suggest features](https://github.com/philiprehberger/api-error-kit/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+💡 [Suggest features](https://github.com/philiprehberger/ts-api-error-kit/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
 
 ❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
 
